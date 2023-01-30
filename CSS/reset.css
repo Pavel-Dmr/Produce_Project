@@ -1,0 +1,44 @@
+* {
+  font-family: "NotoKrR", sans-serif;
+}
+html,
+body,
+header,
+nav,
+footer,
+section,
+div,
+a,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+select,
+input,
+button,
+p,
+span,
+fieldset {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+li {
+  list-style: none;
+}
+a,
+button {
+  text-decoration: none;
+  outline: none;
+}
+fieldset {
+  border: 0;
+}

@@ -8,11 +8,17 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+  <br>
+  <br>
+   <p>🎁 Framework 🎁</p>
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=Chart.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=flat&logo=Nodemon&logoColor=white" />
+  
+  <br>
+  <br>
+  <p>🔍 API 🔍</p>
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=flat&logo=OpenAPI Initiative&logoColor=white" />
-  
-  
-  
   <br>
   <br>
   <p>🛠 Tools 🛠</p> 

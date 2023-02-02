@@ -60,7 +60,7 @@
       node.js 버전 : 8.11.0
       OpenAPI : [농산물유통정보:::KAMIS](https://www.kamis.or.kr/customer/reference/openapi_list.do)
       
-      node.js 라이브러리 목록
+      node.js 프레임워크 목록
           nodemon
           Express Server
           chart.js
@@ -72,29 +72,14 @@
     
   # 3장 시스템 구성도
   ![농수산물_01](https://user-images.githubusercontent.com/104084926/215573276-e587883b-fd67-44f7-9335-169b28d70275.jpg)
-![농수산물_02](https://user-images.githubusercontent.com/104084926/215573282-146b457d-63a6-4587-ab5f-2745cbf06df7.jpg)
+  ![농수산물_02](https://user-images.githubusercontent.com/104084926/215573282-146b457d-63a6-4587-ab5f-2745cbf06df7.jpg)
 
   
   # 4장 구현
   
-  ### 직접 구현한 기능
-  
-  1. 웹 디자인
-     - 탭 메뉴
-     - 소형 게시판
-     - 로그인 팝업
-    
-  2. 농수산물의 시세 조회 및 차트 제공
-     - 표 제공 (품목, 단위(전일 기준) , 등락률, 전일, 1개월전, 1년전) 
-     - ajax 통신으로 OpenAPI 자료 조회, 가공
-     - chart.js로 날짜별 정보 제공 (40일전,30일전,20일전,10일전,당일 - 시세 흐름을 제공)
-         
-### 제공된 기능
-    
-  1. 슬라이더
-      - swiper
-
-  2. node.js 익스프레스 서버
+  - 중도매인 , 소비자을 위한 시세 제공
+  - 전일 대비 등락율 , 이전 날짜의 가격 조회
+  - 시세 그래프 제공
    
     
   # 5장 이슈
